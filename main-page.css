@@ -5,13 +5,13 @@ src:url("neusharp/Neusharp-Bold.otf");
 
 html {
 font-family: neusharp;
-font-size: 1rem;
+font-size: 1vw;
 color:white;
 align-items: center;
 }
 
 h2 {
-font-size: 2rem;
+font-size: 2vw;
 color: red;
 }
 
@@ -42,7 +42,7 @@ background-repeat: no-repeat;
 
 ol {
 float:left;
-padding-left: 8rem;
+padding-left: 8vw;
 list-style-type: decimal;
 text-align: left;
 width: 15rem;
@@ -60,7 +60,7 @@ font-weight: bold;
 }
 
 img {
-margin-left: 4rem;
+margin-left: 4vw;
 }
 
 table {
